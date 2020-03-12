@@ -2,3 +2,6 @@ __pycache__
 models/
 checkpoint
 samples
+
+# VS Code stuff
+settings.json
